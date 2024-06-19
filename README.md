@@ -15,7 +15,7 @@ API: We use Weather API to retrieve accurate and real-time weather data.
 Frontend: The user interface is built with react, providing an interactive and responsive design.
 
 ## Live Demo
-[Link to live demo if available](https://bhagyashrianilugale.github.io/Myportfolio/)
+[Link to live demo if available](https://66726d68bafeaf0008152650--weathergreet.netlify.app/)
 
 ## Author:
 Bhagyashri Ugale Email: bhagyashriugale6970@gmail.com
