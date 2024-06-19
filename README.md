@@ -1,19 +1,22 @@
 # Weather App with API
-# Overview:
+## Overview:
 This repository contains a simple and intuitive weather application that leverages a third-party API to provide real-time weather information. The app allows users to access current weather conditions and other relevant details for a given location.
 
-# Features:
+## Features:
 Current Weather: Get up-to-date information on the current weather conditions for a specific location.
 
 Location-based: The app utilizes geolocation to automatically fetch weather data for the user's current location. Alternatively, users can search for weather information for any location.
 
-# Technologies Used:
+## Technologies Used:
 Programming Language: The app is developed using javascript, ensuring a robust and scalable solution.
 
 API: We use Weather API to retrieve accurate and real-time weather data.
 
 Frontend: The user interface is built with react, providing an interactive and responsive design.
 
-# Author:
+## Live Demo
+[Link to live demo if available](https://bhagyashrianilugale.github.io/Myportfolio/)
+
+## Author:
 Bhagyashri Ugale Email: bhagyashriugale6970@gmail.com
 
