@@ -70,3 +70,10 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+@media (max-width: 640px) {
+     .main_page{
+      background-image: none;
+      background-color: white;
+     }
+}

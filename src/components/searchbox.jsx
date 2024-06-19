@@ -4,9 +4,10 @@ import "../css/SearchBox.css";
 import { useState } from "react";
 
 export default function Searchbox({ updateInfo }){
+    // const API_URL ="https://api.openweathermap.org/data/2.5/weather"; 
+    // const API_KEY = "2240ae8a26640eb0ca10acd1ebbb8885";
     const API_URL = import.meta.env.REACT_APP_API_URL;
     const  API_KEY = import.meta.env.REACT_APP_API_KEY;
-    
     let [City, setCity] = useState("");
     let [Error, setError] = useState(false);
 
@@ -25,7 +26,6 @@ export default function Searchbox({ updateInfo }){
             feels_Like: jsonResponse.main.feels_like,
             weather: jsonResponse.weather[0].description
         }
-         console.log(result);
          return result;
     } 
     
